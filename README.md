@@ -1,4 +1,4 @@
-# Hi, I’m Prajjwal Maurya
+# Hi, I’m Prajjwal
 
 Integrated M.Tech (CSE) student at University of Hyderabad  
 Software Developer | Full-Stack | Systems | Research  
